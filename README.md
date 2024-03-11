@@ -1,7 +1,7 @@
 # Vector Quantization Image Compression
 
 ## About
-Java implementation of vector quantization compression method for images.
+Java implementation of vector quantization compression method for images, using kmeans clustering algorithm.
 
 ## How to run
 1. Put VectorCompression.java file as well as the one-channel rgb image (e.g. "image1-onechannel.rgb") under the same folder.
